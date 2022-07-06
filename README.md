@@ -1,6 +1,6 @@
 # FamPay
 ### Clone the repository
-- $ git clone git@github.com:Harshith-19/FamPay.git
+- $ git clone https://github.com/Harshith-19/FamPay.git
 ### Install the requirements
 - $ pip install -r requirements.txt
 ### Install the redis-server
